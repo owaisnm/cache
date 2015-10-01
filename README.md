@@ -1,1 +1,2 @@
+# cache
 This is a way to increase the cache miss ratio by deliberately writing a code sample that works against the principle of locality. For the purpose of this experiment, the code sample used here is a very simple one: it implements element accessing in a two-dimensional array in such a way to ensure that the cache is not used as much as possible. Further explanation is provided in the Data and Procedures section of the report.
